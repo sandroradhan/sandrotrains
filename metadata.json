@@ -1,0 +1,6 @@
+{
+  "name": "sandrotrains",
+  "description": "A highly customizable workout log featuring calendars, progress trackers, routine creation, and metabolic estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
